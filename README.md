@@ -47,5 +47,3 @@ Feel free to **fork** this project, add your own **twist**, and send a **pull re
 If you like this, give it a ⭐ and share it with your **special someone**! 💕  
 
 ---
-
-This will make your **GitHub repo attractive & engaging!** Let me know if you want any modifications. 😊🚀
