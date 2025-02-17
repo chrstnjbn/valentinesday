@@ -25,16 +25,16 @@ document.addEventListener("DOMContentLoaded", () => {
     ];
 
     const gifList = [
-        "gifsss/gif 1.gif",
-        "gifsss/gif 2.gif",
-        "gifsss/gif 3.gif",
-        "gifsss/gif 4.gif",
-        "gifsss/gif 5.gif",
-        "gifsss/gif 6.gif",
-        "gifsss/gif 7.gif",
-        "gifsss/gif 8.gif",
-        "gifsss/gif 9.gif",
-        "gifsss/gif 10.gif"
+        "gif 1.gif",
+        "gif 2.gif",
+        "gif 3.gif",
+        "gif 4.gif",
+        "gif 5.gif",
+        "gif 6.gif",
+        "gif 7.gif",
+        "gif 8.gif",
+        "gif 9.gif",
+        "gif 10.gif"
     ];
 
     noButton.addEventListener("click", () => {
