@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", () => {
         finalMessage.style.display = "block";
 
         setTimeout(() => {
-            valentineGif.src = "gifsss/enjoying.gif";
+            valentineGif.src = "enjoying.gif";
             valentineGif.style.display = "block";
         }, 500);
 
